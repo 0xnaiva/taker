@@ -2726,3 +2726,15 @@
 4/2/2025 | 8:13:51 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:13:55 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:13:55 PM | ERROR | Failed to retrieve nonce for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/3/2025 | 12:59:06 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 12:59:06 AM | INFO | Start process for wallet 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/3/2025 | 12:59:07 AM | INFO | Trying To Login for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/3/2025 | 12:59:08 AM | INFO | Login successful... 
+4/3/2025 | 12:59:08 AM | INFO | Trying to check user info... 
+4/3/2025 | 12:59:08 AM | INFO | User ID: 102912984 | Twitter: @mynaiva | Total Points: 1008000 
+4/3/2025 | 12:59:08 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 12:59:09 AM | INFO | Last mining time: 4/1/2025, 8:14:33 PM
+4/3/2025 | 12:59:09 AM | INFO | Trying to start Mining for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/3/2025 | 12:59:09 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 12:59:09 AM | INFO | Trying to activate mining on-chain for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/3/2025 | 12:59:23 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xb69faaa1d1100a6e95f9c6e20df1978f4e9b16dd4a35e86f7bf7030a1fae034f 
