@@ -3728,3 +3728,15 @@
 4/20/2025 | 8:14:30 AM | INFO | Trying to activate mining on-chain for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
 4/20/2025 | 8:14:31 AM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 4/20/2025 | 8:14:31 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/20/2025 | 12:21:40 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/20/2025 | 12:21:41 PM | INFO | Start process for wallet 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/20/2025 | 12:21:42 PM | INFO | Trying To Login for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/20/2025 | 12:21:43 PM | INFO | Login successful... 
+4/20/2025 | 12:21:43 PM | INFO | Trying to check user info... 
+4/20/2025 | 12:21:43 PM | INFO | User ID: 102912984 | Twitter: @mynaiva | Total Points: 1392000 
+4/20/2025 | 12:21:43 PM | INFO | Trying to check user miner status... 
+4/20/2025 | 12:21:44 PM | INFO | Last mining time: 4/19/2025, 4:14:42 AM
+4/20/2025 | 12:21:44 PM | INFO | Trying to start Mining for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/20/2025 | 12:21:45 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/20/2025 | 12:21:45 PM | INFO | Trying to activate mining on-chain for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+4/20/2025 | 12:21:54 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x394a5d23317e3c817973ef5f13b43e5133215559388d844786c632d8c615d9e5 
