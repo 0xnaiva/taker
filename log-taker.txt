@@ -5123,3 +5123,12 @@
 5/14/2025 | 4:15:59 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/14/2025 | 4:15:59 PM | INFO | Trying to activate mining on-chain for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
 5/14/2025 | 4:16:08 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xfe3216bc7bc63156d38b32241825474e37c16ab1b1427e6082525f3a8d66b7f3 
+5/14/2025 | 8:12:08 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/14/2025 | 8:12:08 PM | INFO | Start process for wallet 0x18DD93600976c027DD17f2efd485799040537F1F 
+5/14/2025 | 8:12:09 PM | INFO | Trying To Login for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+5/14/2025 | 8:12:10 PM | INFO | Login successful... 
+5/14/2025 | 8:12:10 PM | INFO | Trying to check user info... 
+5/14/2025 | 8:12:10 PM | INFO | User ID: 102912984 | Twitter: @mynaiva | Total Points: 1920000 
+5/14/2025 | 8:12:10 PM | INFO | Trying to check user miner status... 
+5/14/2025 | 8:12:11 PM | INFO | Last mining time: 5/14/2025, 4:16:06 PM
+5/14/2025 | 8:12:11 PM | WARN | Mining already started, next mining time is: 5/15/2025, 4:16:06 PM
