@@ -5208,3 +5208,12 @@
 5/16/2025 | 4:24:15 AM | WARN | Retrying... (0 attempts left) 
 5/16/2025 | 4:26:35 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 5/16/2025 | 4:26:35 AM | ERROR | Failed to retrieve nonce for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+5/16/2025 | 8:17:48 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/16/2025 | 8:17:48 AM | INFO | Start process for wallet 0x18DD93600976c027DD17f2efd485799040537F1F 
+5/16/2025 | 8:17:49 AM | INFO | Trying To Login for wallet: 0x18DD93600976c027DD17f2efd485799040537F1F 
+5/16/2025 | 8:17:49 AM | INFO | Login successful... 
+5/16/2025 | 8:17:49 AM | INFO | Trying to check user info... 
+5/16/2025 | 8:17:50 AM | INFO | User ID: 102912984 | Twitter: @mynaiva | Total Points: 1944000 
+5/16/2025 | 8:17:50 AM | INFO | Trying to check user miner status... 
+5/16/2025 | 8:17:51 AM | INFO | Last mining time: 5/15/2025, 4:16:39 PM
+5/16/2025 | 8:17:51 AM | WARN | Mining already started, next mining time is: 5/16/2025, 4:16:39 PM
